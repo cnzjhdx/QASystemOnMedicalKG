@@ -3,6 +3,7 @@
 # File: data_spider.py
 # Author: lhy<lhy_in_blcu@126.com,https://huangyong.github.io>
 # Date: 18-10-3
+# 主要功能：爬取寻医问药网的数据，统一存入到magodb，通过字典方式存到data字段
 
 
 import urllib.request
